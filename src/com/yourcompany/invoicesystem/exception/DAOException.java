@@ -1,3 +1,9 @@
+/**
+ * Author: Jay Prakash Kumar
+ * Copyright (c) 2025
+ * Licensed under MIT License
+ */
+
 package com.yourcompany.invoicesystem.exception;
 
 /**
@@ -15,3 +21,4 @@ public class DAOException extends InvoiceSystemException {
         super(message, cause);
     }
 }
+

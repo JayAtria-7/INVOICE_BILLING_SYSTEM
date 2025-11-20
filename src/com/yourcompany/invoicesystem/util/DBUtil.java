@@ -1,3 +1,9 @@
+/**
+ * Author: Jay Prakash Kumar
+ * Copyright (c) 2025
+ * Licensed under MIT License
+ */
+
 package com.yourcompany.invoicesystem.util; // Ensure this matches your package name
 
 import java.io.IOException;
@@ -114,3 +120,4 @@ public class DBUtil {
     }
     */
 }
+

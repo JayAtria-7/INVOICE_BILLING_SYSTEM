@@ -1,3 +1,7 @@
+# Author: Jay Prakash Kumar
+# Copyright (c) 2025
+# Licensed under MIT License
+
 #!/bin/bash
 # Invoice Billing System Startup Script for Linux/Mac
 #
@@ -42,3 +46,4 @@ if [ $exit_code -ne 0 ]; then
     echo "Application exited with error code $exit_code"
     read -p "Press Enter to continue..."
 fi
+

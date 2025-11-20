@@ -1,3 +1,9 @@
+/**
+ * Author: Jay Prakash Kumar
+ * Copyright (c) 2025
+ * Licensed under MIT License
+ */
+
 package com.yourcompany.invoicesystem.validation;
 
 import org.junit.jupiter.api.Test;
@@ -130,3 +136,4 @@ public class ValidatorTest {
         assertTrue(exception.getMessage().contains("cannot exceed 100"));
     }
 }
+

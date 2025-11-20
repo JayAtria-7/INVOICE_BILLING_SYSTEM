@@ -1,3 +1,9 @@
+/**
+ * Author: Jay Prakash Kumar
+ * Copyright (c) 2025
+ * Licensed under MIT License
+ */
+
 package com.yourcompany.invoicesystem.model; // Package declaration should be first
 
 import java.math.BigDecimal; // Use BigDecimal for precise currency values
@@ -90,3 +96,4 @@ public class Product {
         return "Product [productID=" + productID + ", name=" + name + ", price=" + price + ", stock=" + stock + "]";
     }
 }
+

@@ -1,3 +1,7 @@
+@REM Author: Jay Prakash Kumar
+@REM Copyright (c) 2025
+@REM Licensed under MIT License
+
 @echo off
 REM Fix Payment Methods Table
 
@@ -11,3 +15,4 @@ if %errorlevel% equ 0 (
 )
 
 pause
+

@@ -1,3 +1,9 @@
+<!--
+Author: Jay Prakash Kumar
+Copyright (c) 2025
+Licensed under MIT License
+-->
+
 # 🎉 ProBilling System - Implementation Complete!
 
 ## ✅ ALL REQUESTED FEATURES IMPLEMENTED
@@ -279,3 +285,4 @@ The ProBilling Invoice Management System is now a **professional-grade business 
 ---
 
 **🎉 Congratulations! Your billing system is feature-complete and ready to use!**
+

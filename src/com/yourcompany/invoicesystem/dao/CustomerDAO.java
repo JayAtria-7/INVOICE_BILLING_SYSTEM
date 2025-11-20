@@ -1,3 +1,9 @@
+/**
+ * Author: Jay Prakash Kumar
+ * Copyright (c) 2025
+ * Licensed under MIT License
+ */
+
 package com.yourcompany.invoicesystem.dao;
 
 import com.yourcompany.invoicesystem.model.Customer;
@@ -179,3 +185,4 @@ public class CustomerDAO {
         return customer;
     }
 }
+

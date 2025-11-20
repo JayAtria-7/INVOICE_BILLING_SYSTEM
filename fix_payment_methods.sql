@@ -1,3 +1,7 @@
+-- Author: Jay Prakash Kumar
+-- Copyright (c) 2025
+-- Licensed under MIT License
+
 -- Fix Missing PaymentMethods table and ensure all tables exist
 USE invoice_db;
 
@@ -95,3 +99,4 @@ ORDER BY TABLE_NAME;
 
 -- Show payment methods
 SELECT * FROM PaymentMethods;
+

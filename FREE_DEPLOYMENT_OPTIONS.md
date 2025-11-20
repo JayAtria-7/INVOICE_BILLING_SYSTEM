@@ -1,3 +1,9 @@
+<!--
+Author: Jay Prakash Kumar
+Copyright (c) 2025
+Licensed under MIT License
+-->
+
 # Free Deployment Options for Invoice Billing System
 
 ## Overview
@@ -390,3 +396,4 @@ java -jar InvoiceBillingSystem.jar
 - **AWS Free Tier**: https://aws.amazon.com/free/
 - **MySQL Documentation**: https://dev.mysql.com/doc/
 - **Ubuntu Server Guide**: https://ubuntu.com/server/docs
+

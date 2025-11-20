@@ -1,3 +1,7 @@
+-- Author: Jay Prakash Kumar
+-- Copyright (c) 2025
+-- Licensed under MIT License
+
 -- Comprehensive Database Fix and Verification Script
 -- This script ensures all tables and columns exist for the Invoice Billing System
 
@@ -107,3 +111,4 @@ SELECT
     (SELECT COUNT(*) FROM InvoiceItems) AS InvoiceItems,
     (SELECT COUNT(*) FROM PaymentMethods) AS PaymentMethods,
     (SELECT COUNT(*) FROM Returns) AS Returns;
+

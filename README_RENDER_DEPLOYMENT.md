@@ -1,3 +1,9 @@
+<!--
+Author: Jay Prakash Kumar
+Copyright (c) 2025
+Licensed under MIT License
+-->
+
 # Deploy Invoice Billing System to Render.com
 
 ## Important Note
@@ -174,3 +180,4 @@ If you want to deploy to Render.com, I can help you:
 **But this will take several days of development.**
 
 Let me know which approach you prefer!
+

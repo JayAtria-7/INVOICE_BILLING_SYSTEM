@@ -1,3 +1,7 @@
+@REM Author: Jay Prakash Kumar
+@REM Copyright (c) 2025
+@REM Licensed under MIT License
+
 @echo off
 REM Invoice Billing System Startup Script for Windows
 REM
@@ -33,3 +37,4 @@ if %errorlevel% neq 0 (
     echo Application exited with error code %errorlevel%
     pause
 )
+

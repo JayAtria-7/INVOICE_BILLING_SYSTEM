@@ -1,3 +1,9 @@
+<!--
+Author: Jay Prakash Kumar
+Copyright (c) 2025
+Licensed under MIT License
+-->
+
 # 🎉 ALL FEATURES COMPLETED! 🎉
 
 ## ProBilling Invoice Management System v2.0
@@ -299,3 +305,4 @@ The ProBilling Invoice Management System is now:
 ---
 
 **Built with ❤️ using Java, Swing, and MySQL**
+

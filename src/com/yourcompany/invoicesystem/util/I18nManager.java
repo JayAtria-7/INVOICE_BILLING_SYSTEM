@@ -1,3 +1,9 @@
+/**
+ * Author: Jay Prakash Kumar
+ * Copyright (c) 2025
+ * Licensed under MIT License
+ */
+
 package com.yourcompany.invoicesystem.util;
 
 import java.util.Locale;
@@ -122,3 +128,4 @@ public class I18nManager {
         return false;
     }
 }
+

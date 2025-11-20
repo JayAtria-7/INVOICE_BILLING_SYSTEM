@@ -1,3 +1,9 @@
+/**
+ * Author: Jay Prakash Kumar
+ * Copyright (c) 2025
+ * Licensed under MIT License
+ */
+
 package com.yourcompany.invoicesystem.model;
 
 import org.junit.jupiter.api.Test;
@@ -56,3 +62,4 @@ public class ProductTest {
         assertTrue(toString.contains("stock=100"));
     }
 }
+

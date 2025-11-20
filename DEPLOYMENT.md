@@ -1,3 +1,9 @@
+<!--
+Author: Jay Prakash Kumar
+Copyright (c) 2025
+Licensed under MIT License
+-->
+
 # Invoice Billing System - Deployment Guide
 
 ## Version 2.0.0
@@ -285,3 +291,4 @@ mysql -u root -p invoice_db < backup_20241120.sql
 ## License
 Proprietary software - All rights reserved
 Version 2.0.0 - November 2025
+

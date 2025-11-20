@@ -1,3 +1,9 @@
+/**
+ * Author: Jay Prakash Kumar
+ * Copyright (c) 2025
+ * Licensed under MIT License
+ */
+
 package com.yourcompany.invoicesystem.service;
 
 import com.yourcompany.invoicesystem.dao.InvoiceDAO;
@@ -180,3 +186,4 @@ public class InvoiceService {
         }
     }
 }
+

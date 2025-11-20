@@ -1,3 +1,9 @@
+/**
+ * Author: Jay Prakash Kumar
+ * Copyright (c) 2025
+ * Licensed under MIT License
+ */
+
 package com.yourcompany.invoicesystem.model;
 
 import java.math.BigDecimal;
@@ -154,3 +160,4 @@ public class Invoice {
         }
     }
 }
+

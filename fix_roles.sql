@@ -1,3 +1,7 @@
+-- Author: Jay Prakash Kumar
+-- Copyright (c) 2025
+-- Licensed under MIT License
+
 -- Fix invalid role values in Users table
 -- The Role column should only contain: ADMIN, MANAGER, or CASHIER
 
@@ -21,3 +25,4 @@ WHERE Role LIKE 'CASHIER%' AND Role != 'CASHIER';
 
 -- Verify the fix
 SELECT UserID, Username, Role FROM Users;
+

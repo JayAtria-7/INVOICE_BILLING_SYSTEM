@@ -1,3 +1,9 @@
+/**
+ * Author: Jay Prakash Kumar
+ * Copyright (c) 2025
+ * Licensed under MIT License
+ */
+
 package com.yourcompany.invoicesystem.gui;
 
 import com.yourcompany.invoicesystem.util.ReportGenerator;
@@ -215,3 +221,4 @@ public class ReportsDialog extends JDialog {
         return new java.sql.Date(date.getTime()).toLocalDate();
     }
 }
+

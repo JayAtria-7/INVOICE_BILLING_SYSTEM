@@ -1,3 +1,7 @@
+-- Author: Jay Prakash Kumar
+-- Copyright (c) 2025
+-- Licensed under MIT License
+
 -- QUICK FIX - Run this to create Users table and insert default users
 -- This is the minimal SQL needed to fix your login issue
 
@@ -35,3 +39,4 @@ SELECT UserID, Username, FullName, Role, IsActive FROM Users;
 -- Done! Now you can login with:
 -- Username: admin     Password: admin123
 -- Username: cashier1  Password: cashier123
+

@@ -1,3 +1,7 @@
+-- Author: Jay Prakash Kumar
+-- Copyright (c) 2025
+-- Licensed under MIT License
+
 -- User Authentication System Database Schema
 -- Run this SQL script in your MySQL database (invoice_db)
 
@@ -153,3 +157,4 @@ INSERT INTO SystemSettings (SettingKey, SettingValue, Description) VALUES
 ('BACKUP_ENABLED', 'false', 'Enable automatic database backups'),
 ('LANGUAGE', 'en', 'System language code')
 ON DUPLICATE KEY UPDATE SettingKey=SettingKey;
+

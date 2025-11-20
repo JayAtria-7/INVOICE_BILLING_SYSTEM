@@ -1,3 +1,9 @@
+<!--
+Author: Jay Prakash Kumar
+Copyright (c) 2025
+Licensed under MIT License
+-->
+
 # 🎯 QUICK START GUIDE
 
 ## Invoice Billing System v2.0 - Production Ready
@@ -224,3 +230,4 @@ Your Invoice Billing System is now:
 - **Features List**: `FEATURE_COMPLETION_REPORT.md`
 
 **Happy Deploying! 🎊**
+

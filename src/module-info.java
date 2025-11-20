@@ -1,4 +1,10 @@
 /**
+ * Author: Jay Prakash Kumar
+ * Copyright (c) 2025
+ * Licensed under MIT License
+ */
+
+/**
  * Module descriptor for Invoice Billing System
  */
 module InvoiceBillingSystem {
@@ -10,3 +16,4 @@ module InvoiceBillingSystem {
     // Or comment out the requires below if not using servlets
     // requires java.servlet;  // Uncomment when servlet-api is available
 }
+

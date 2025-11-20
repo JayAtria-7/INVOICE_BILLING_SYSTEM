@@ -1,3 +1,9 @@
+/**
+ * Author: Jay Prakash Kumar
+ * Copyright (c) 2025
+ * Licensed under MIT License
+ */
+
 package com.yourcompany.invoicesystem.util;
 
 import com.yourcompany.invoicesystem.model.Invoice;
@@ -238,3 +244,4 @@ public class ReceiptPrinter {
         return new String(new char[times]).replace('\0', c);
     }
 }
+
