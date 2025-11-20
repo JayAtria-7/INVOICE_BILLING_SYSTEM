@@ -1,0 +1,39 @@
+# Compiled class files
+bin/
+*.class
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+
+# Log files
+logs/
+*.log
+
+# Backup files
+backups/
+*.bak
+*.sql~
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Database configuration (contains passwords)
+# Note: You'll need to configure this on Render.com
+db.properties
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# Build artifacts
+*.jar
+*.war
